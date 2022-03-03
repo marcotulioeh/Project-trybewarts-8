@@ -12,7 +12,7 @@ header {
   margin-right: 10px;
 }
 
-#email, #senha, #entrar {
+#email #senha #entrar {
   padding: 10px;
   margin-right: 10px;
   border-radius: 10px;
